@@ -14,9 +14,6 @@
     "autoload": {
         "psr-4": {
             "think\\captcha\\": "src/"
-        },
-        "files": [
-            "src/helper.php"
-        ]
+        }
     }
 }
